@@ -19,3 +19,4 @@ def test_not_match(command):
     (Command('cd baz'))])
 def test_get_new_command(command):
     # Test if completed file paths exist
+    pass
